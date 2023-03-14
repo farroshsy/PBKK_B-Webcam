@@ -1,0 +1,17 @@
+C:\Users\Farros\Downloads\Webcam-master\WebCamApp\bin\Debug\WebCamApp.exe.config
+C:\Users\Farros\Downloads\Webcam-master\WebCamApp\bin\Debug\WebCamApp.exe
+C:\Users\Farros\Downloads\Webcam-master\WebCamApp\bin\Debug\WebCamApp.pdb
+C:\Users\Farros\Downloads\Webcam-master\WebCamApp\bin\Debug\AForge.dll
+C:\Users\Farros\Downloads\Webcam-master\WebCamApp\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Farros\Downloads\Webcam-master\WebCamApp\bin\Debug\AForge.Video.dll
+C:\Users\Farros\Downloads\Webcam-master\WebCamApp\bin\Debug\AForge.xml
+C:\Users\Farros\Downloads\Webcam-master\WebCamApp\bin\Debug\AForge.Video.xml
+C:\Users\Farros\Downloads\Webcam-master\WebCamApp\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Farros\Downloads\Webcam-master\WebCamApp\obj\Debug\WebCamApp.csproj.AssemblyReference.cache
+C:\Users\Farros\Downloads\Webcam-master\WebCamApp\obj\Debug\WebCamApp.Form1.resources
+C:\Users\Farros\Downloads\Webcam-master\WebCamApp\obj\Debug\WebCamApp.Properties.Resources.resources
+C:\Users\Farros\Downloads\Webcam-master\WebCamApp\obj\Debug\WebCamApp.csproj.GenerateResource.cache
+C:\Users\Farros\Downloads\Webcam-master\WebCamApp\obj\Debug\WebCamApp.csproj.CoreCompileInputs.cache
+C:\Users\Farros\Downloads\Webcam-master\WebCamApp\obj\Debug\WebCamApp.csproj.CopyComplete
+C:\Users\Farros\Downloads\Webcam-master\WebCamApp\obj\Debug\WebCamApp.exe
+C:\Users\Farros\Downloads\Webcam-master\WebCamApp\obj\Debug\WebCamApp.pdb
